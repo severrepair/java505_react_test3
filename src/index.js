@@ -7,6 +7,7 @@ import App2 from "./App2";
 import App3 from "./App3";
 import App4 from "./App4";
 import App5 from "./App5";
+import App6 from "./App6";
 import Appcal from "./Appcal";
 import Events from "./folder2/Events";
 
@@ -20,8 +21,9 @@ root.render(
     {/*<App2 />*/}
     {/*<App3 />*/}
     {/*<App4 />*/}
-    <App5 />
-    <Appcal />
+    {/*<App5 />*/}
+    {/*<Appcal />*/}
+      <App6 />
 
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </React.StrictMode>
